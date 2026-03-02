@@ -21,11 +21,11 @@ from glob import glob
 
 ### EDIT FROM HERE ###
 # Here, specify path for file with URLs
-excelPath = 'C:/Users/SPAC-42/Documents/week4/GRI_2017_2020.xlsx'
+excelPath = 'GRI_2017_2020.xlsx'
 
 # Here, specify path for folder for downloads
-outputPath = 'C:/Users/SPAC-42/Documents/week4/output'
-downloadsPath = 'C:/Users/SPAC-42/Documents/week4/output/dwn'
+outputPath = 'output'
+downloadsPath = 'output/dwn'
 
 # Here, specify the name of the column with file IDs
 ID = 'BRnum'
